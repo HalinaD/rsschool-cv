@@ -1,1 +1,1 @@
-# rsschool-cv
+https://halinad.github.io/rsschool-cv/cv
