@@ -37,10 +37,10 @@
 ##### Graduated from Belarusian National Technical University. Master of technical sciences. 
 ###  **Courses:**
 ---
-- #####  JS/Front-end. Stage 0 (RU). 
+- ##### JS/Front-end. Stage 0 (RU).
 - ##### English courses. 
 
 ###  **Languages:**
 ---
 - #####  Russian - native; 
-- #####  English - Intermediate (B1). 
+- #####  English - Intermediate (B1).
