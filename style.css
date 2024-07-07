@@ -72,7 +72,7 @@ h2 {
     padding: 0;}
 
 .footer {
-    display:flow-root;
+    display:flex;
     color:#d5e038;
     box-sizing: border-box;
     width:100%;  
@@ -81,5 +81,19 @@ h2 {
     text-align:center;
     padding: 20px 0 5px 0;
     font-size: 15px;
+    align-items: center;
 }
 
+a :hover {
+    transform: scale(1.2);
+}
+
+.code {
+    display: flex;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    margin: 20px auto;
+    background-color: cadetblue;
+    color: black;
+}
